@@ -9,6 +9,6 @@ Standards-Version: 3.9.3
 
 Package: lightdm-gtk-greeter-mx15
 Architecture: all
-Depends: ${misc:Depends}, lightdm-gtk-greeter ( >> 2.0.1-2mx15+1), mx15-artwork-base
+Depends: ${misc:Depends}, lightdm-gtk-greeter ( >> 2.0.1-2mx15+1), mx15-artwork
 Description: lightdm-gtk-greeter theme and configuration for MX15
  .
