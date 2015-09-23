@@ -5,7 +5,7 @@ set -e
 case "$1" in
   install|upgrade)
     echo -ne '[greeter]'\\n\
-    'background=/usr/local/share/backgrounds/login.jpg'\\n\
+    'background=/usr/local/share/backgrounds/MX15/lightdm/Squam_Lake.jpg'\\n\
     'theme-name=MediterraneanDarkest_MX-15'\\n\
     'xft-antialias = true'\\n\
     'xft-hintstyle = hintfull'\\n\
