@@ -1,0 +1,14 @@
+Source: lightdm-gtk-greeter-mx15
+Section: unknown
+Priority: extra
+Maintainer: Kent Mathern <maintainer@mepiscommunity.org>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+#Vcs-Git: git://git.debian.org/collab-maint/mx-lightdm-gtk-greeter-config.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/mx-lightdm-gtk-greeter-config.git;a=summary
+
+Package: lightdm-gtk-greeter-mx15
+Architecture: all
+Depends: ${misc:Depends}, lightdm-gtk-greeter ( >> 2.0.1-2mx15+1), mx15-artwork-base
+Description: lightdm-gtk-greeter theme and configuration for MX15
+ .
