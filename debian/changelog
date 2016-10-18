@@ -1,3 +1,15 @@
+lightdm-gtk-greeter-mx16 (1.0mx16+1) mx; urgency=medium
+
+  * Initial release. 
+
+ -- anticapitalista <antix@operamail.com>  Sun, 16 Oct 2016 16:02:27 +0300
+
+lightdm-gtk-greeter-mx15 (1.1mx15+2) mx; urgency=medium
+
+  * Rebuild for MX-15.
+
+ -- Steven Pusser (Stevo) <maintainer@mepiscommunity.org>  Fri, 06 Nov 2015 13:01:18 -0800
+
 lightdm-gtk-greeter-mx15 (1.1mx15+1) mx; urgency=low
 
   * Changed icon to Faenza Cupertino.
