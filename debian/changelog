@@ -1,3 +1,9 @@
+lightdm-gtk-greeter-mx16 (1.0mx16+2) mx; urgency=medium
+
+  * Fixed preinst position = 50%,center 54%,start" 
+
+ -- anticapitalista <antix@operamail.com>  Tue, 25 Oct 2016 17:30:09 +0300
+
 lightdm-gtk-greeter-mx16 (1.0mx16+1) mx; urgency=medium
 
   * Initial release. 

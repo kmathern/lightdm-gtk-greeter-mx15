@@ -13,7 +13,7 @@ case "$1" in
     'icon-theme-name = Faenza-Cupertino'\\n\
     'hide-user-image = true'\\n\
     'indicators = ~host;~spacer;~session;~power'\\n\
-    'position = 60%,start 65%,start'\\n\
+    'position = 50%,center 54%,start'\\n\
     ''\\n | sed 's/^ //;s/^-ne //'>/etc/lightdm/lightdm-gtk-greeter.conf
   ;;
   *)
